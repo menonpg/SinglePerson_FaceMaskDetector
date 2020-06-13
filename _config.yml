@@ -1,1 +1,17 @@
 theme: jekyll-theme-cayman
+
+title: Webcam FaceMask Detector
+email: pgmenon@andrew.cmu.edu 
+
+baseurl: "/SinglePerson_FaceMaskDetector" # the subpath of your site, e.g. /blog
+url: "https://menonpg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: themedcave
+github_username:  menonpg
+linkedin_username: prahladmenon 
+
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+
+# Build settings
+theme:  jekyll-theme-cayman
+plugins:
+  - jekyll-feed
