@@ -12,6 +12,6 @@ linkedin_username: prahladmenon
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Build settings
-theme:  jekyll-theme-cayman
+theme:  jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
