@@ -1,7 +1,1 @@
 theme: jekyll-theme-cayman
-
-docs_list_title: Files List
-docs:
-
-- title: >Webcam Image Classification using a pre-trained customized model and p5.js
-  url: index.html
