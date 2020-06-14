@@ -7,8 +7,6 @@ twitter_username: themedcave
 github_username:  menonpg
 linkedin_username: prahladmenon 
 
-#remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-
 # Build settings
 theme:  jekyll-theme-cayman 
 #jekyll-theme-clean-blog
